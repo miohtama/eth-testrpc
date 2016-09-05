@@ -1,4 +1,24 @@
-----
+Version 0.8.4
+================================
+
+- Upstream bugfix for filters.
+
+Version 0.8.3
+================================
+
+- Upstream bugfix for transaction logs.
+
+Version 0.8.2
+================================
+
+- Upstream bugfix for filters.
+
+Version 0.8.1
+================================
+
+- Bugfix for kwargs being passed down into new_filter method on
+  ethereum-tester-client
+
 Version 0.8.0
 ================================
 
